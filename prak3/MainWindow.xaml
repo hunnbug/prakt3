@@ -1,0 +1,19 @@
+﻿<Window x:Class="prak3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:prak3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <DataGrid x:Name="DG" AutoGenerateColumns="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding SotrudnikName}" Header="Имя"/>
+                <DataGridTextColumn Binding="{Binding SotrudnikSurname}" Header="Фамилия"/>
+                <DataGridTextColumn Binding="{Binding Sklad.Adres}" Header="Склад"/>
+                <DataGridTextColumn Binding="{Binding Sklad.SotrudnikiAmount}" Header="Количество сотрудников"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>
