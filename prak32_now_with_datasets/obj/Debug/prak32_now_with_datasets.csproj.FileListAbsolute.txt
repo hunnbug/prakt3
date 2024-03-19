@@ -1,0 +1,15 @@
+D:\CODING\mocha\c#\prak32_now_with_datasets\prak32_now_with_datasets\bin\Debug\prak32_now_with_datasets.exe.config
+D:\CODING\mocha\c#\prak32_now_with_datasets\prak32_now_with_datasets\bin\Debug\prak32_now_with_datasets.exe
+D:\CODING\mocha\c#\prak32_now_with_datasets\prak32_now_with_datasets\bin\Debug\prak32_now_with_datasets.pdb
+D:\CODING\mocha\c#\prak32_now_with_datasets\prak32_now_with_datasets\obj\Debug\prak32_now_with_datasets.csproj.AssemblyReference.cache
+D:\CODING\mocha\c#\prak32_now_with_datasets\prak32_now_with_datasets\obj\Debug\MainWindow.g.cs
+D:\CODING\mocha\c#\prak32_now_with_datasets\prak32_now_with_datasets\obj\Debug\App.g.cs
+D:\CODING\mocha\c#\prak32_now_with_datasets\prak32_now_with_datasets\obj\Debug\prak32_now_with_datasets_MarkupCompile.cache
+D:\CODING\mocha\c#\prak32_now_with_datasets\prak32_now_with_datasets\obj\Debug\prak32_now_with_datasets_MarkupCompile.lref
+D:\CODING\mocha\c#\prak32_now_with_datasets\prak32_now_with_datasets\obj\Debug\MainWindow.baml
+D:\CODING\mocha\c#\prak32_now_with_datasets\prak32_now_with_datasets\obj\Debug\prak32_now_with_datasets.g.resources
+D:\CODING\mocha\c#\prak32_now_with_datasets\prak32_now_with_datasets\obj\Debug\prak32_now_with_datasets.Properties.Resources.resources
+D:\CODING\mocha\c#\prak32_now_with_datasets\prak32_now_with_datasets\obj\Debug\prak32_now_with_datasets.csproj.GenerateResource.cache
+D:\CODING\mocha\c#\prak32_now_with_datasets\prak32_now_with_datasets\obj\Debug\prak32_now_with_datasets.csproj.CoreCompileInputs.cache
+D:\CODING\mocha\c#\prak32_now_with_datasets\prak32_now_with_datasets\obj\Debug\prak32_now_with_datasets.exe
+D:\CODING\mocha\c#\prak32_now_with_datasets\prak32_now_with_datasets\obj\Debug\prak32_now_with_datasets.pdb
